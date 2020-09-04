@@ -52,7 +52,7 @@
     "instaview": "git+https://github.com/imachug/instaview.git",
     "katex": "^0.9.0-beta1",
     "markdown-wiki": "0.0.1",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "string-replace-async": "^1.2.1",
     "vue": "^2.5.13",
     "vue-async-computed": "^3.3.1",
